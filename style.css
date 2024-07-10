@@ -1,0 +1,33 @@
+.strikethrough:checked + span{
+    text-decoration:line-through;
+    color: white;
+  }
+.container{
+    text-align:justify;
+    background-color: rgb(5, 37, 79);
+    border: 20px;
+    padding: 20px;
+   height: 450px;
+   color: white;
+   width:350px;
+   align-items: center;
+
+}
+.section{
+    background-color: rgb(137, 155, 236);
+    height: 500px;
+    width:500px;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+}
+h2{
+    text-decoration: underline;
+    padding: 10px;
+}
+body{
+    align-content: center;
+}
+label{
+    padding: 10px;
+}
